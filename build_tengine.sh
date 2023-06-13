@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 #
 
-tengine_version=tengine-2.3.3
-nginx_version=1.18.0
+tengine_version=tengine-2.4.1
+nginx_version=1.22.1
 BASE_DIR=$(cd "$(dirname "$0")";pwd)
 PROJECT_DIR=${BASE_DIR}
 
